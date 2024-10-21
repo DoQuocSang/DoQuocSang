@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/name.svg" alt="SangDQ" />
+</h1>
+
 # 👋 Hey there, I'm SangDQ!
 **I'm a passionate Web Developer with a love for creating intuitive and visually appealing digital experiences. I'm learning and seeking to improve my skills to build better and more impactful web solutions.**
 
