@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/name.svg" alt="SangDQ" />
 </h1>
 
-# 👋 Hey there, I'm SangDQ!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
+
 **I'm a passionate Web Developer with a love for creating intuitive and visually appealing digital experiences. I'm learning and seeking to improve my skills to build better and more impactful web solutions.**
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
