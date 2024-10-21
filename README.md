@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm SangDQ!
-**I'm a passionate Web Developer with a love for creating intuitive and visually appealing digital experiences.**
+**I'm a passionate Web Developer with a love for creating intuitive and visually appealing digital experiences. I'm learning and seeking to improve my skills to build better and more impactful web solutions.**
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
