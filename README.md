@@ -15,7 +15,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
-[![nominate](https://img.shields.io/badge/DoQuocSang-CTK44-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+[![info](https://img.shields.io/badge/DoQuocSang-CTK44-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 - 🔭 I have a passion for graphic design
 - 🌱 I’m currently learning **Angular and .NET**
@@ -88,10 +88,22 @@
 <!------------------------------------------ GITSTATS ------------------------------------------>
 <img src="./assets/colored.png" width="100%" alt="line"/>
 
+<div align="center">
+  <h2>⚡ Stats ⚡</h2>
+  <br>
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoQuocSang&show_icons=true&locale=en&layout=compact" alt="DoQuocSang" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DoQuocSang&show_icons=true&locale=en" alt="DoQuocSang" /></p>
+<!------------------------------------------ CONTRIBUTIONS ------------------------------------------>
+<img src="./assets/colored.png" width="100%" alt="line"/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-
+  <br/><br/><br/>
+</div>
 
 
 
