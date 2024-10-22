@@ -20,7 +20,7 @@
 - 🔭 I have a passion for graphic design
 - 🌱 I’m currently learning **Angular and .NET**
 - 📫 How to reach me: quocsang316@gmail.com
-- ⚡ Fun fact: **There is no fact**
+- ⚡ Fun fact: **There is no fact** 😁
 
 <!------------------------------------------ LANGUAGE AND TOOLS ------------------------------------------>
 <h3 align="left">Languages and Tools:</h3>
