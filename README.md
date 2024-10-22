@@ -100,6 +100,7 @@
   
   <br/><br/>
 </div>
+
 <!------------------------------------------ CONTRIBUTIONS ------------------------------------------>
 <img src="./assets/colored.png" width="100%" alt="line"/>
 <div align="center">
@@ -114,7 +115,6 @@
 
 
 <!------------------------------------------ OTHER CODE THAT I DON'T USE AT THE MOMENT ------------------------------------------>
-
 <!--
 **DoQuocSang/DoQuocSang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
