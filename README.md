@@ -87,16 +87,18 @@
 <img src="./assets/colored.png" width="100%" alt="line"/>
 
 <div align="center">
-<h2>⚡ Stats ⚡</h2>
-<br>
-<span>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=DoQuocSang&show_icons=true&locale=en&layout=compact" alt="DoQuocSang" />
-</span>
+  <h2>⚡ Stats ⚡</h2>
+  <br/>
+  <span>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=DoQuocSang&show_icons=true&locale=en&layout=compact" alt="DoQuocSang" />
+  </span>
+    
+  <span>
+    &nbsp;
+    <img  src="https://github-readme-stats.vercel.app/api?username=DoQuocSang&show_icons=true&locale=en" alt="DoQuocSang" />
+  </span>
   
-<span>
-  &nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api?username=DoQuocSang&show_icons=true&locale=en" alt="DoQuocSang" />
-</span>
+  <br/><br/>
 </div>
 <!------------------------------------------ CONTRIBUTIONS ------------------------------------------>
 <img src="./assets/colored.png" width="100%" alt="line"/>
@@ -105,7 +107,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 
