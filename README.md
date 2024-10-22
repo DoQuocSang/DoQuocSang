@@ -1,25 +1,28 @@
-<!------------------------------------------ Feature image ------------------------------------------>
+<!------------------------------------------ FEATURE IMAGE ------------------------------------------>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/name.svg" alt="SangDQ" />
 </h1>
 
-<!------------------------------------------ Greeting ------------------------------------------>
+<!------------------------------------------ GRETTING ------------------------------------------>
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi, I'm SangDQ </span> 
 </h1>
 
-<!------------------------------------------ Description ------------------------------------------>
+<!------------------------------------------ DESCRIPTION ------------------------------------------>
 **I'm a passionate Web Developer with a love for creating intuitive and visually appealing digital experiences. I'm learning and seeking to improve my skills to build better and more impactful web solutions.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DoQuocSang&label=Profile%20views&color=0e75b6&style=flat" alt="DoQuocSang" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 [![nominate](https://img.shields.io/badge/DoQuocSang-CTK44-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
+- 🔭 i have a passion for graphic design
 - 🌱 I’m currently learning **Angular and .NET**
+- 📫 How to reach me: quocsang316@gmail.com
+- ⚡ Fun fact: **There is no fact**
 
-- 💬 Ask me about **ReactJs, Golang**
-
-<!------------------------------------------ Languages and Tools ------------------------------------------>
+<!------------------------------------------ LANGUAGE AND TOOLS ------------------------------------------>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -71,7 +74,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
 </a> 
 
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" /> 
 </a> 
@@ -79,12 +81,18 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" /> 
 </a> 
+
 </p>
 
+<!------------------------------------------ GITSTATS ------------------------------------------>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoQuocSang&show_icons=true&theme=dark&locale=en&layout=compact" alt="DoQuocSang" /></p>
 
 
-<!------------------------------------------ Some code that i dont use at the moment ------------------------------------------>
+
+
+
+
+<!------------------------------------------ OTHER CODE THAT I DON'T USE AT THE MOMENT ------------------------------------------>
 
 <!--
 **DoQuocSang/DoQuocSang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
