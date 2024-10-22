@@ -1,6 +1,6 @@
 <!------------------------------------------ FEATURE IMAGE ------------------------------------------>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/name.svg" alt="SangDQ" />
+  <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/assets/name.svg" alt="SangDQ" />
 </h1>
 
 <!------------------------------------------ GRETTING ------------------------------------------>
