@@ -17,7 +17,7 @@
 
 [![nominate](https://img.shields.io/badge/DoQuocSang-CTK44-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
-- 🔭 i have a passion for graphic design
+- 🔭 I have a passion for graphic design
 - 🌱 I’m currently learning **Angular and .NET**
 - 📫 How to reach me: quocsang316@gmail.com
 - ⚡ Fun fact: **There is no fact**
