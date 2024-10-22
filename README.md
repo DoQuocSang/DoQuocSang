@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DoQuocSang&label=Profile%20views&color=0e75b6&style=flat" alt="DoQuocSang" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+<img align="right" alt="coding" width="400" src="./assets/main.gif" />
 
 [![info](https://img.shields.io/badge/DoQuocSang-CTK44-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
@@ -128,6 +128,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 -->
 
 <!--
