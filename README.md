@@ -84,6 +84,7 @@
 
 </p>
 
+<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 <!------------------------------------------ GITSTATS ------------------------------------------>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoQuocSang&show_icons=true&theme=dark&locale=en&layout=compact" alt="DoQuocSang" /></p>
 
