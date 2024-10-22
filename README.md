@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/DoQuocSang/DoQuocSang/master/assets/name.svg" alt="SangDQ" />
 </h1>
 
-<!------------------------------------------ GRETTING ------------------------------------------>
+<!------------------------------------------ GREETING ------------------------------------------>
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi, I'm SangDQ </span> 
 </h1>
